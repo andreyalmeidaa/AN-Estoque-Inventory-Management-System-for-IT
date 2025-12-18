@@ -253,7 +253,7 @@ Feito para estudo, prática e organização profissional.
 
 # 🔒 Aviso Legal
 
-Este projeto foi desenvolvido para fins profissionais e educacionais.  
+Este projeto foi desenvolvido para fins profissionais.  
 Todo o código-fonte, layout, lógica e estrutura pertencem ao autor e **não estão autorizados para cópia, redistribuição ou uso comercial sem permissão**.
 
 📌 **Código privado. Todos os direitos reservados.**
